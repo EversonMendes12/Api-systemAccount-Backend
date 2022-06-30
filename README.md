@@ -5,4 +5,6 @@ BackeEnd create account and login system.
 
 Desenvolvido utilizando Spring Boot. 
 
-![image](https://user-images.githubusercontent.com/13875554/176775774-954a560b-5b7c-404b-b245-fde80524ea30.png)
+### Dependencies
+![image](https://user-images.githubusercontent.com/13875554/176775988-81ea996f-9864-458c-9c0c-1ec7408c5d23.png)
+
